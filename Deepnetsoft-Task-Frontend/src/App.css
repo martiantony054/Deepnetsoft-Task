@@ -1,0 +1,21 @@
+.contact-section {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-info, .logo-section, .find-us {
+    text-align: center;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #fff;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+}
